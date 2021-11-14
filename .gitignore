@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/src/coverage
+
+# misc
+.DS_Store
+.idea
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+mysql
+mysql*
+mysql/mysql
+mysql/mysql*
+mysql**
+
+.vscode
+
+9-illustrations/database/data/
